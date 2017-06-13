@@ -1,7 +1,7 @@
 ---
 title: 在PSR基础上自定义的代码命名规范
 date: 2017-03-30 22:52:24
-tags: oop
+tags: 面向对象
 ---
 
 > PSR是PHP Standard Recommendations 的简写，由PHP FIG组织制定的PHP规范，是PHP 开发的实践标准。官网：https://psr.phphub.org 。

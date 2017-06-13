@@ -1,7 +1,7 @@
 ---
 title: Oh_My_Zsh的安装和使用初体验
 date: 2017-05-14 16:12:05
-tags: tools
+tags: 高效工具
 ---
 
 > 在实验楼的官方QQ群和人家吹牛逼时候学到了几点东西：windows子系统linux仿终端开源软件wsl，最新windows10 1703内置ubuntu16.04，听说支持在linux中打开exe可执行文件，编译安装vim以执行python lua补全和异步代码测试，公司服务器可能运行着Arch这等神器，据说今年Build大会微软会推出安装Fodora和Suse，VirtualBox和VMware虚拟机作用可以使用Hyper-V+Docker替代，最重要的一点是他让我知道了：Oh-My-Zsh主题是可以安装在Windows-Linux-MacOS 三大平台的！

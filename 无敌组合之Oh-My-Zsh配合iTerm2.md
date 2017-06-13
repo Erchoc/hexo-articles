@@ -1,7 +1,7 @@
 ---
 title: 无敌组合之Oh_My_Zsh配合iTerm2
 date: 2017-06-04 16:12:58
-tags: tools
+tags: 高效工具
 ---
 
 > 由于iTerm2只有MacOS版本，所以首先你需要有一台Mac系统的电脑，黑苹果装的系统也行。然后你要知道iTerm2只是一个终端工具，比MacOS自带的terminal好在哪里呢？各种插件和命令提示，人性化的快捷键等等。

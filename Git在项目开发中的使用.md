@@ -1,7 +1,7 @@
 ---
 title: Git在项目开发中的使用
 date: 2017-05-09 16:08:31
-tags: tools
+tags: 高效工具
 ---
 
 > Git不是github!Git不是github!Git不是github!重要的事情说三遍。Github和osc码云,gitlab,coding.net一样只是个放代码的远程仓库；怎么把这些代码放上去，怎么管理？这些平台都使用了Git这种超级流行的分布式管理技术。

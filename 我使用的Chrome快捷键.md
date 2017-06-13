@@ -1,7 +1,7 @@
 ---
 title: 我使用的Chrome快捷键
 date: 2016-11-17 00:39:32
-tags: skills
+tags: 奇淫巧计
 ---
 
 > 这是我在windows平台上常用的几个Chrome快捷键，使用MacOS开发后快捷键变化确实挺大，于是我在尽量把MacOS上的各种开发环境快捷键绑定为Windows兼容版，并放在github中作为开源项目也服务他人，包括但不局限于Atom，PhpStorm，Sublime Text3，QQ，Chrome，Firefox，OS等快捷键。

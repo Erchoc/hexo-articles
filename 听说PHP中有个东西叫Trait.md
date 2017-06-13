@@ -1,7 +1,7 @@
 ---
 title: 听说PHP中有个东西叫Trait
 date: 2017-05-31 10:12:28
-tags: oop
+tags: 面向对象
 ---
 
 > 在Laravel文档中经常出现这个让我郁闷的词汇，在群里问了一下才知道这东西不是laravel所有，而是php内容。于是去php官方文档查看，看的一脸懵逼。想想还是直接借助Google，php trait是什么？

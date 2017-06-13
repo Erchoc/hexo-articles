@@ -1,7 +1,7 @@
 ---
 title: PhpStorm IDE个人使用指南
 date: 2017-05-10 16:10:07
-tags: tools
+tags: 高效工具
 ---
 
 > 我是个PHP工程师，关于开发IDE的选用就PhpStorm不用争论了。很多人从DW或者Sublime转向PhpStorm时会发现很多快捷键都不一样，DW用户甚至都不怎么关注快捷键。PhpStorm快捷键大全自行Google就能找到，本文主要就是针对该IDE的快捷键和系统配置作个简要说明。

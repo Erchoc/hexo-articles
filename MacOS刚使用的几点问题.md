@@ -1,7 +1,7 @@
 ---
 title: MacOS刚使用的几点问题
 date: 2017-05-26 12:43:16
-tags: tools
+tags: 高效工具
 ---
 
 > Macbook Pro MF839昨天下午4点下单，今天下午4点收货，顺丰隔日速度值得表扬。开机配置，Apple id又被冻结了。激活之后查看电池使用次数为3，正品没毛病。然后就是安装各种软件了，PhpStorm，HomeBrew，git，Teambition，QQ，微信，WebStorm，shadowsocks，MAMP，VirtualBox，Chrome。

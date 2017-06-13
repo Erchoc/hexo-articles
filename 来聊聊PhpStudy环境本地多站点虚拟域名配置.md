@@ -1,7 +1,7 @@
 ---
 title: 来聊聊PhpStudy环境本地多站点虚拟域名配置
 date: 2017-03-08 13:41:15
-tags:
+tags: 奇淫巧计
 ---
 
 > 教程在Windows系统下使用PhpStudy在Apache服务器环境搭建本地站点，通过这篇文章你可以学到：`修改hosts文件和域名系统的原理`，`Apache多站点的配置`，`MarkDown语法以及各平台推荐软件`和`一些零碎的网络相关知识`。

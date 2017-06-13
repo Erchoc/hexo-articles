@@ -1,7 +1,7 @@
 ---
 title: 在MacOS上安装和使用Docker搭建laravel环境
 date: 2017-05-20 01:25:54
-tags: tools
+tags: 高效工具
 ---
 
 > 首先当然是下载docker, 推荐使用增强型brew`brew cask install docker`安装, 其实就是下载了这个文件, 你也可以自己下载这个文件然后进行手动安装: https://download.docker.com/mac/stable/17661/Docker.dmg 。

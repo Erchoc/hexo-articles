@@ -1,7 +1,7 @@
 ---
 title: 第N次安装Hexo框架和Next博客主题
 date: 2017-06-01 08:14:10
-tags: hexo
+tags: 技术博客
 ---
 
 > 换了 Mac 之后 Hexo 框架和主题文章全没了，备份到码云的文章数据被 .gitignore 忽略了，没办法找个时间自己手动备份一下 Hexo 博客。这次懂事了，必须用iCloud把数据全备份下来，这里 windows 下的 OneDrive 即时备份机制真恶心。
